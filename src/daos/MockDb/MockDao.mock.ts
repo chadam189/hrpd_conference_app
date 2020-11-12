@@ -1,9 +1,9 @@
 import jsonfile from 'jsonfile';
-import { IUser } from '@entities/User';
+import { IAssignment } from '@entities/Assignment';
 
 
 interface IDatabase {
-    users: IUser[];
+    assignments: IAssignment[];
 }
 
 
