@@ -1,0 +1,6 @@
+[submodule "submodules/locations"]
+	path = submodules/locations/
+	url = https://github.com/elderbas/hr_ms_o_conference_locations
+[submodule "submodules/presentations"]
+	path = submodules/presentations
+	url = https://github.com/chokoreetosan/Presentation-Microservice.git
